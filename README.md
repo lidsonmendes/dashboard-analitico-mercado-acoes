@@ -34,8 +34,6 @@ Este projeto visa analisar dados históricos de ações de cinco empresas (IBM, 
 ![Total de Valores Médios por Mês](images/valores_medios.png)
 ![Narrativa Inteligente](images/narrativa_inteligente.png)
 
-> Obs.: Substitua os nomes das imagens pelos arquivos que você fizer upload.
-
 ---
 
 ## 📈 Principais KPIs / Métricas
