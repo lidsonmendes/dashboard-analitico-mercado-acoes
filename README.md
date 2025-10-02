@@ -28,7 +28,7 @@ Este projeto visa analisar dados históricos de ações de cinco empresas (IBM, 
 ## 📸 Prints do Dashboard
 
 ![Visão Geral](images/visao_geral.png)  
-![Análise por Empresa](images/visao_empresa.png)  
+![Análise por Empresa](images/visao_tesla.png)  
 ![Insights](images/insights.png)  
 
 > Obs.: Substitua os nomes das imagens pelos arquivos que você fizer upload.
