@@ -1,0 +1,21 @@
+# Arquivos temporários do Power BI
+*.tmp
+*.bak
+*.cache
+~$*
+
+# Pastas de backup locais
+**/Backup*/
+**/backup*/
+
+# Arquivos do sistema (Windows / macOS)
+Thumbs.db
+.DS_Store
+
+# Arquivos pessoais ou não versionados
+*.pbix.local
+*.xlsx.local
+
+# Pasta de build ou arquivos gerados automaticamente (se houver)
+dist/
+build/
