@@ -49,8 +49,8 @@ Este projeto visa analisar dados históricos de ações de cinco empresas (IBM, 
 ## 🚀 Como Explorar o Dashboard
 
 1. Faça o download do arquivo:
-[Dashboard Power BI (.pbix) - Clique para Baixar](files/dashboard-analitico-mercado-acoes.pbix)  
+[Dashboard Power BI (.pbix) - Clique para Baixar]([files/dashboard-analitico-mercado-acoes.pbix](https://github.com/lidsonmendes/dashboard-analitico-mercado-acoes/raw/refs/heads/main/files/dashboard-analitico-mercado-acoes.pbix))  
 2. **Baixe a base de dados:**
-[Base de Dados (.xlsx) - Clique para Baixar](files/StockMarketNew.xlsx)
+[Base de Dados (.xlsx) - Clique para Baixar]([files/StockMarketNew.xlsx](https://github.com/lidsonmendes/dashboard-analitico-mercado-acoes/raw/refs/heads/main/files/StockMarketNew.xlsx))
 3. Abra o arquivo `.pbix` no **Power BI Desktop**.
 4. Navegue pelas diferentes páginas do relatório para explorar as análises e insights interativos.  
