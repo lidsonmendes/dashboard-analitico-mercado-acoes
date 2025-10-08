@@ -20,6 +20,7 @@ Este projeto visa analisar dados históricos de ações de cinco empresas (IBM, 
 ## 🛠 Tecnologias Utilizadas
 
 - **Power BI Desktop**  
+- **Linguagem M (Power Query)** para ETL e preparação de dados
 - **DAX** para cálculos e métricas  
 - Dados extraídos do portal da Nasdaq: [https://www.nasdaq.com](https://www.nasdaq.com)
 
@@ -47,6 +48,9 @@ Este projeto visa analisar dados históricos de ações de cinco empresas (IBM, 
 
 ## 🚀 Como Explorar o Dashboard
 
-1. Faça o download do arquivo `Dashboard.pbix`.  
-2. Abra o arquivo no **Power BI Desktop**.  
-3. Navegue pelas diferentes páginas do relatório para explorar as análises e insights interativos.  
+1. Faça o download do arquivo:**
+[Dashboard Power BI (.pbix) - Clique para Baixar](files/dashboard-analitico-mercado-acoes.pbix)  
+2. **Baixe a base de dados:**
+[Base de Dados (.xlsx) - Clique para Baixar](files/StockMarketNew.xlsx)
+3. Abra o arquivo `.pbix` no **Power BI Desktop**.
+4. Navegue pelas diferentes páginas do relatório para explorar as análises e insights interativos.  
