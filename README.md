@@ -30,7 +30,7 @@ Este projeto visa analisar dados históricos de ações de cinco empresas (IBM, 
 
 ![Visão Geral](images/visao_geral.gif)  
 ![Análise por Empresa](images/visao_tesla.png)  
-![Variação de Média de Fechamento MoM](images/media_fechamento.png)  
+![Variação de Média de Fechamento MoM](images/media_fechamento.gif)  
 ![Total do Volume Negociado de Ações ao Longo do Tempo](images/total_vol_negociado.png)
 ![Total de Valores Médios por Mês](images/valores_medios.png)
 ![Narrativa Inteligente](images/narrativa_inteligente.png)
